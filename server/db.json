@@ -1,0 +1,16 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "year": "2010",
+      "description": "A mind-bending thriller about dreams within dreams."
+    },
+    {
+      "id": "1149",
+      "title": "העולם היפה שלי",
+      "year": "1999",
+      "description": "החיים שלנו ממש יפים אנחנו רק צריכים לדעת להעריך אותם"
+    }
+  ]
+}
